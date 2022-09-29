@@ -17,5 +17,8 @@
   <ItemGroup>
     <None Include="HTMLPage.htm" />
     <None Include="ImageThumbnailmainpage.htm" />
+    <None Include="chickenbites.htm" />
+    <None Include="michiganchickensalad.htm" />
+    <None Include="buffalochickenwrap.htm" />
   </ItemGroup>
 </Project>

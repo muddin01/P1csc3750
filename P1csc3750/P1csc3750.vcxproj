@@ -142,6 +142,15 @@
     <None Include="HTMLPage.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>
+    <None Include="chickenbites.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="buffalochickenwrap.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="michiganchickensalad.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
     <None Include="ImageThumbnailmainpage.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>
