@@ -148,6 +148,9 @@
     <None Include="buffalochickenwrap.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>
+    <None Include="Brisket.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
     <None Include="michiganchickensalad.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>

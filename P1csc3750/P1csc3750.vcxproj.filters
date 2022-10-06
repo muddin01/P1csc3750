@@ -20,5 +20,6 @@
     <None Include="chickenbites.htm" />
     <None Include="michiganchickensalad.htm" />
     <None Include="buffalochickenwrap.htm" />
+    <None Include="Brisket.htm" />
   </ItemGroup>
 </Project>
