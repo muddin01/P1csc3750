@@ -151,6 +151,12 @@
     <None Include="Brisket.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>
+    <None Include="stylePage.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="VideoAttribute.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
     <None Include="michiganchickensalad.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>
