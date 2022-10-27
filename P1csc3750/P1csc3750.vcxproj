@@ -151,9 +151,13 @@
     <None Include="Brisket.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>
+    <None Include="menuFont.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
     <None Include="stylePage.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>
+    <None Include="menuFontCSS.css" />
     <None Include="VideoAttribute.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>

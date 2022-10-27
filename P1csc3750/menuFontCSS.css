@@ -1,0 +1,40 @@
+BODY
+{
+background-color: #da7624;
+margin: 0 10%
+font-family: monospace;
+}
+h1
+{
+	color: #d326f1;
+	text-align:center;
+	font-family:fantasy;
+	font-weight:normal;
+	border-bottom:1px solid #57b1dc;
+	margin-top:30px;
+	font-size: 3.5em;
+	background-position:center;
+	background-repeat: no-repeat;
+	background-position:50%;
+
+}
+
+h2{
+	color: #d326f1;
+	font-size; 3em;
+}
+
+h3{
+color: #d326f1
+font-size:3em;
+}
+
+h4{
+	color; #d326f1
+	font-size; 1.5em;
+}
+
+p{
+	color: #12f0d2
+	font-size; 1.3em;
+}

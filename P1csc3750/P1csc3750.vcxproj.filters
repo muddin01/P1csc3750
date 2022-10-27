@@ -23,5 +23,7 @@
     <None Include="Brisket.htm" />
     <None Include="VideoAttribute.htm" />
     <None Include="stylePage.htm" />
+    <None Include="menuFont.htm" />
+    <None Include="menuFontCSS.css" />
   </ItemGroup>
 </Project>
