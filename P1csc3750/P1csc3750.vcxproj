@@ -158,6 +158,7 @@
       <DeploymentContent>true</DeploymentContent>
     </None>
     <None Include="menuFontCSS.css" />
+    <None Include=".css" />
     <None Include="VideoAttribute.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>

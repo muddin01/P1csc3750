@@ -25,5 +25,6 @@
     <None Include="stylePage.htm" />
     <None Include="menuFont.htm" />
     <None Include="menuFontCSS.css" />
+    <None Include=".css" />
   </ItemGroup>
 </Project>
